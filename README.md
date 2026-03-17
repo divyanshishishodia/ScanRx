@@ -1,8 +1,3 @@
-Got it 😤🔥 tu seedha GitHub README me paste karegi — toh proper Markdown format me de raha hoon (no extra junk, clean AF)
-
-
----
-
 # 🚀 ScanRx — Smart Medicine Safety System  
 
 ## 🧠 What is ScanRx?  
@@ -116,16 +111,3 @@ Deepika Nautiyal
 💬 Tagline
 
 "Scan. Verify. Stay Safe."
-
----
-
-# 🔥 BAS AB
-
-👉 GitHub → README.md → Edit  
-👉 sab delete → ye paste → commit  
-
----
-
-Bol:  
-👉 **“README DONE 😤”**  
-phir next level: **PPT + pitch (winner wala)** 💀🔥
